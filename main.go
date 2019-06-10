@@ -19,8 +19,8 @@ along with AutoVCV.  If not, see <https://www.gnu.org/licenses/>.
 package main
 
 import (
-    "autovcv/autovcv"
-    "autovcv/vcv"
+    "github.com/pommicket/autovcv/autovcv"
+    "github.com/pommicket/autovcv/vcv"
     "fmt"
     "os"
     "math/rand"
