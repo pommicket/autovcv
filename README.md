@@ -41,7 +41,7 @@ To build AutoVCV from source, you can use
 
 ```bash
 go get github.com/pommicket/autovcv
-cd $GOPATH/autovcv
+cd $GOPATH/github.com/pommicket/autovcv
 mkdir -p bin
 go build -o bin/autovcv
 ```
