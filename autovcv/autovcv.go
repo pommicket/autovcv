@@ -20,7 +20,7 @@ package autovcv
 
 import (
     "math/rand"
-    "autovcv/vcv"
+    "github.com/pommicket/autovcv/vcv"
 )
 
 type input struct {
